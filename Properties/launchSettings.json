@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SmallPicture": {
+      "commandName": "Project",
+      "commandLineArgs": "aaaa.img"
+    }
+  }
+}
